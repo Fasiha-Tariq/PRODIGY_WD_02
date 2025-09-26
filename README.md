@@ -1,4 +1,4 @@
-## 2. Stopwatch App**
+## 2. Stopwatch App
 
 A simple web-based stopwatch with Start, Pause, Reset, and Lap functionality. Built to practice JavaScript timing functions.
 
